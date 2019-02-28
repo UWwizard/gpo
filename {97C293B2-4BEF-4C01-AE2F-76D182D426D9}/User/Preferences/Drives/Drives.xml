@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Drives clsid="{8FDDCC1A-0C3C-43cd-A6B4-71A6DF20DA8C}"><Drive clsid="{935D1B74-9CB8-4e3c-9914-7DD559B7A417}" name="I:" status="I:" image="0" changed="2019-02-20 14:50:14" uid="{64908741-155D-4AC0-B366-0F8A3C44237E}" bypassErrors="1"><Properties action="C" thisDrive="NOCHANGE" allDrives="NOCHANGE" userName="" path="\\nebula2.washington.edu\uw" label="UW" persistent="1" useLetter="1" letter="I"/></Drive>
+	<Drive clsid="{935D1B74-9CB8-4e3c-9914-7DD559B7A417}" name="U:" status="U:" image="0" changed="2019-02-20 14:49:40" uid="{D207F97C-D9D8-479D-BE4F-08B25639E31A}"><Properties action="C" thisDrive="NOCHANGE" allDrives="NOCHANGE" userName="" path="\\udrive.uw.edu\udrive" label="UW U DRIVE" persistent="1" useLetter="1" letter="U"/></Drive>
+</Drives>
